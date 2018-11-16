@@ -11,7 +11,7 @@ const link = {
 }
 
 /* add the navbar component */
-const Navbar = () =>
+const NavBar = () =>
   <div>
     <NavLink
       to="/"
